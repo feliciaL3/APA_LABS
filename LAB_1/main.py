@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 
 Blue = '\033[94m'
 Red = '\033[91m'
-Green = '\033[92m'
 Yellow = '\033[93m'
 END = '\033[0m'
 
