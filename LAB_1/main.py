@@ -52,6 +52,7 @@ def exec_time(name):
 
 running_time = dict()
 values = [1, 10, 20, 30, 40, 50, 60, 70, 80]
+# values = [180,190,200]
 
 
 def exec_time_recursive(func, name, *args):
