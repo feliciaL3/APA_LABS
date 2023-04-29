@@ -9,3 +9,13 @@ In the first laboratory we had the following objectives:
 • Theoretical analysis of algorithms
 
 • Determination of time and asymptotic complexity of algorithms
+
+
+#### LABORATORY WORK 2
+
+#### LABORATORY WORK 3 
+
+#### LABORATORY WORK 4 
+
+#### LABORATORY WORK 5 
+
